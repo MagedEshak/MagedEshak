@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maged Eshak
 - 👀 I’m interested in web 
-- 🌱 I’m currently learning PHP and Laravel Framework as a back-end develober
+- 🌱 I’m currently learning ASP.NET to be a back-end develober
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
